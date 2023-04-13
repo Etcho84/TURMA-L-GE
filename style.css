@@ -12,11 +12,43 @@
 }
 
 .cabecalho-imagem{
-    width: 90%;
-    height: 85%;
+    width: 60;
+    height: 55%;
 }
 
 .cabecalho-item{
     display: inline-block;
     padding: 15px;
 }
+
+.cabecalho-item{
+    font-size: 25px;
+    font-style: italic;
+
+
+}
+
+.turma{
+    background-image: linear-gradient(#00FCED,#15fc00);
+    font-size: 30px;
+    padding: 50px 200px;
+}
+
+.linha1{
+    font-size: 15px;
+    padding: 0px 200px;
+    }
+
+    .linha2{
+        font-size: 15px;
+        padding: 0px 200px;
+    }
+
+    .linha3{
+        font-size: 15px;
+        padding: 0px 200px;        
+    }
+
+    .imagemprof{
+        width: 30%;
+    }
